@@ -22,6 +22,15 @@
 <h2>Customers  Par id</h2>
 <img src="captures/img33.PNG">
 
+<img src="captures/HOTMAIL.PNG">
+
+<img src="captures/DELET.PNG">
+
+<img src="captures/PARIdpm.PNG">
+
+<img src="captures/post.PNG">
+
+<img src="captures/Postman.PNG">
 
 
 
@@ -29,3 +38,5 @@
 
 
 
+
+<img src="captures/img33.PNG">
